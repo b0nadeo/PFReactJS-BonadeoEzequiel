@@ -1,0 +1,36 @@
+.carddetail{
+    border-radius: 7px;
+}
+
+.textodesc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.estilocontador{
+    display: flex;
+    align-items: center;
+}
+
+.botoncolor{
+    background-color: rgb(255, 236, 205);
+    border-color: rgb(101, 101, 101);
+    color: rgb(46, 46, 46);
+}
+
+.botoncolor:hover{
+    color: rgb(255, 209, 135);
+    background-color: rgb(186, 27, 27);
+    border-color: rgb(101, 101, 101);
+}
+
+.botoncolor2{
+    background-color: rgb(101, 101, 101);
+    border-color: black;
+    color: rgb(255, 238, 210);
+}
+
+.botoncolor2:hover{
+    color: rgb(255, 209, 135);
+    background-color: rgb(186, 27, 27);
+    border-color: rgb(101, 101, 101);
+}

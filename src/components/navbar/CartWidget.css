@@ -1,0 +1,16 @@
+.numerocarrito{
+    color: negro;
+}
+
+.carrito-rojo{
+    color: rgb(227, 0, 0);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.carrito-azul{
+    color: darkblue;
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}

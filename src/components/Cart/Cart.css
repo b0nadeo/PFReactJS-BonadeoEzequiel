@@ -1,0 +1,28 @@
+.botoncolor{
+    background-color: rgb(255, 236, 205);
+    border-color: rgb(101, 101, 101);
+    color: rgb(46, 46, 46);
+}
+
+.botoncolor:hover{
+    color: rgb(255, 209, 135);
+    background-color: rgb(186, 27, 27);
+}
+
+.ordenbox{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagencompra{
+    width: 150px;
+    border-radius: 25px;
+}
+
+.ordentexto{
+    text-align: center;
+    align-items: center;
+}

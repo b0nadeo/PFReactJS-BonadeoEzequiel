@@ -1,0 +1,15 @@
+.imglogo{
+    width: 150px;
+}
+
+.navbarestilos{
+    background-color: rgb(255, 236, 205);
+    font-size: 35px;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.letrashover:hover{
+    color: rgb(186, 27, 27);
+}

@@ -1,0 +1,10 @@
+.estilomaquetadodos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.colorid{
+    color: rgb(186, 27, 27);
+}
